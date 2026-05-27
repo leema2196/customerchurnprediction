@@ -32,7 +32,7 @@ It contains customer details such as:
 ---
 
 ## Technologies Used
-- Python 🐍
+- Python 
 - Pandas
 - NumPy
 - Matplotlib
